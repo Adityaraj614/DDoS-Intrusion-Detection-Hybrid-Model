@@ -1,0 +1,7 @@
+Model,Accuracy
+Random Forest,0.77
+SVM,0.78
+CNN-LSTM,0.76
+MLP,0.78
+Enhanced MLP (Z-score + class weight),0.79
+Proposed Model,0.86

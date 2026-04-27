@@ -1,0 +1,19 @@
+FINAL PROPOSED MODEL
+
+Accuracy: 0.8605
+
+Precision:
+Class 0 (Normal): 0.68
+Class 1 (Attack): 0.97
+
+Recall:
+Class 0 (Normal): 0.97
+Class 1 (Attack): 0.65
+
+F1-Score:
+Class 0: 0.80
+Class 1: 0.78
+
+Confusion Matrix:
+[[9430  281]
+ [4655 8178]]
