@@ -2,7 +2,20 @@
 __pycache__/
 *.py[codz]
 *$py.class
+# Data
+data/*.txt
+data/*.npy
 
+# Models
+models/*.pth
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
 # C extensions
 *.so
 
